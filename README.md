@@ -71,3 +71,5 @@ ls: lista os arquivos do repositório
 cd: move o conteúdo para outro local (não entendi muito bem)
 mkdir: cria novas pastas no repositório (tb não entendi muito bem)
 observação: esses dois últimos me parece mais interessante mexer nas pastas do windows
+
+Teste linha 75
