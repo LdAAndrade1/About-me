@@ -1,5 +1,5 @@
 Este é um arquivo temporário.
 
-ok
+Branch novo, segunda linha. Ok
 
 Main. Feito
