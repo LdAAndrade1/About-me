@@ -1,5 +1,15 @@
-Este é um arquivo temporário.
+##Este é o título da bagaça!
 
-Branch novo, segunda linha. Ok
+Este é um arquivo temporário. </br>
 
-Main. Feito
+---
+
+Este foi um teste de linha
+
+```
+
+Este foi um teste de outra linha
+
+- isso funciona como um **bullet point?**
+- vamos ver como funciona
+- mais um pra fechar
