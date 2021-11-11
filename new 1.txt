@@ -5,4 +5,4 @@ E Essa é a quarta
 
 test: do you speak portuguese?
 
-E ai?
+E ai? Já é ou já era?
